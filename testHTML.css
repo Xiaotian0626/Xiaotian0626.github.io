@@ -1,0 +1,16 @@
+.figure{
+    margin: 0px 0px 0px auto;
+    background-color: rebeccapurple;
+    height: 300px;
+    width: 300px;
+}
+body{
+    background-image:url("BingWallpaper.jpg") ;
+    size: auto;
+}
+.videoAnnotation{
+    color: yellow;
+}
+ol li{
+    margin-left:-30px;
+}
