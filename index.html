@@ -11,7 +11,7 @@
 
       fetch('coffee.jpg').then((response) => {
         console.log('It worked :)')
-        return response.blob();
+   //     return response.blob();
       }).then((myBlob) => {
         let objectURL = URL.createObjectURL(myBlob);
         image = document.createElement('img');
